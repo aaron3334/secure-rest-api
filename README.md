@@ -1,7 +1,7 @@
 # Features:
 
-Utilizes JAX-RS for RESTful services implementation.
-Integrates JBoss Security Framework for authentication and authorization.
+i. Utilizes JAX-RS for RESTful services implementation.
+ii. Integrates JBoss Security Framework for authentication and authorization.
 Includes examples of role-based access control (RBAC) using JBoss security roles.
 Demonstrates best practices for securing endpoints, including input validation and output encoding.
 Provides clear documentation on setting up and configuring the project within a JBoss application server environment.
