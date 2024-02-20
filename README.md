@@ -1,4 +1,4 @@
-<h2>Features:</h2>h2>
+<h2>Features:</h2>
 <li>
 <ol>Utilizes JAX-RS for RESTful services implementation.</ol>
 <ol>Integrates JBoss Security Framework for authentication and authorization.</ol>
