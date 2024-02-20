@@ -1,4 +1,4 @@
-#Features:
+# Features:
 
 Utilizes JAX-RS for RESTful services implementation.
 Integrates JBoss Security Framework for authentication and authorization.
